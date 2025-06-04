@@ -1,0 +1,19 @@
+{
+	"name": "eleventy-plugin-llms",
+	"version": "0.1.0",
+	"description": "A plugin for 11ty to generate llms.txt and llms-full.txt",
+	"license": "MIT",
+	"repository": "github:cmaas/eleventy-plugin-llms",
+	"author": "Christian Maas",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"eleventy-plugin",
+		"11ty",
+		"eleventy",
+		"javascript",
+		"llms"
+	]
+}
