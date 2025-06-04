@@ -25,7 +25,7 @@ More info at [llmstxt.org](https://llmstxt.org/).
 npm install eleventy-plugin-llms --save-dev
 ```
 
-## 🛠️ Usage
+## Usage
 
 Open your Eleventy config file (usually `.eleventy.js`) and add the plugin:
 
@@ -49,7 +49,7 @@ This document contains content from My Static Site, prepared for LLM consumption
 
 The plugin will then generate `llms.txt` and `llms-full.txt` in your output directory (e.g., `_site/`) after each Eleventy build.
 
-## ⚙️ Configuration Options
+## Configuration Options
 
 You can pass an options object as the second argument to `addPlugin`. Here are the available options:
 
