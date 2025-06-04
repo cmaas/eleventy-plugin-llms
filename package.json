@@ -11,9 +11,8 @@
 	},
 	"keywords": [
 		"eleventy-plugin",
-		"11ty",
-		"eleventy",
-		"javascript",
-		"llms"
+		"11ty-plugin",
+		"llmstxt",
+		"llms-txt"
 	]
 }
